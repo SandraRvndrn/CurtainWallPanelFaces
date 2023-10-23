@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Assembly>C:\Users\sandr\source\repos\CurtainWallPanelFaces\CurtainWallPanelFaces\bin\x64\Debug\CurtainWallPanelFaces.dll</Assembly>
+        <AddInId>5026C581-28E5-480A-AF53-96516C2F4AA8</AddInId>
+        <FullClassName>CurtainWallPanelFaces.Class1</FullClassName>
+        <Text>CurtainWallPanelFaces</Text>
+        <VendorId>Sandra</VendorId>
+        <VendorDescription>Your Company Information</VendorDescription>
+    </AddIn>
+</RevitAddIns>
+
+
+
